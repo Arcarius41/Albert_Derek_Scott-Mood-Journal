@@ -232,6 +232,3 @@ export default function Profile() {
     </div>
   );
 }
-// random comment more random comments some more random comments even more random comments more random comments more random random comments
-// very important comment this is hopefully keeping my codespace alive lets keep this comment going hope this works keep me alive please
-// stayin alive, stayin alive, ah ah ah ah stayin alive, stayin alive staying alive. keep going codespace.
