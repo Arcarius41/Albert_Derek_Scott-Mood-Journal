@@ -107,8 +107,7 @@ export default function Profile() {
                                 justifyContent: "center",
                                 alignItems: "center",
                                 borderRadius: "50%",
-                              }}
-                            >
+                              }}                             >
                               <img src={store.user?.avatar} />
                             </div>
                           )}
@@ -129,7 +128,7 @@ export default function Profile() {
                           />
                         </div>
                       </div>
-                      {/* <div className="col d-flex flex-column flex-sm-row justify-content-between mb-3">
+                      <div className="col d-flex flex-column flex-sm-row justify-content-between mb-3">
                         <div className="text-center text-sm-left mb-2 mb-sm-0">
                           <h4 className="pt-sm-2 pb-1 mb-0 text-nowrap">
                             {store.user?.full_name}
@@ -139,7 +138,7 @@ export default function Profile() {
 
                          
                         </div>
-                      </div> */}
+                      </div>
                     </div>
 
                     <form className="form" onSubmit={handleSaveChanges}>
