@@ -15,7 +15,6 @@ Serenity Scribe is a digital platform that allows users to record their daily mo
 - **Registration/Login Page:** Allows users to register an account or log in to the platform.
 - **Journal Page:** A form for users to write and submit their daily journal entries and mood ratings.
 - **Past Journals Page:** Displays a list of past journal entries that users can view and edit.
-- **Analytics Page:** Shows graphs and analytics on past moods and journal entries.
 - **Affirmations:** After submitting a journal entry, users receive a daily affirmation via a third-party API.
 
 ### Backend
